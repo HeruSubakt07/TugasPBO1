@@ -15,4 +15,6 @@ Antara Lain :
 	 lang Thread API untuk mengadopsi thread virtual dengan perubahan minimal, 
 	 dan mengaktifkan pemecahan masalah, debugging, dan pembuatan profil utas virtual dengan alat JDK yang ada.
 5. Dengan port Linux/RISC-V
+         Java akan mendapatkan dukungan untuk set instruksi perangkat keras yang sudah didukung oleh berbagai rantai alat bahasa. RISC-V sebenarnya adalah keluarga ISA terkait
+         Footer
 
